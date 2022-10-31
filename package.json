@@ -1,0 +1,23 @@
+{
+  "name": "landing-carlos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guzmanfc93/landing-carlos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guzmanfc93/landing-carlos/issues"
+  },
+  "homepage": "https://github.com/guzmanfc93/landing-carlos#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
